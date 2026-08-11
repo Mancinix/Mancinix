@@ -58,8 +58,10 @@ I specialise in transforming complex datasets into clear, actionable insights. F
 
 ## 🟡 Snake Contribution Game
 
-![Galaga Contribution Graph](https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/galaga-contribution-graph.svg)   
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="pacman game"/>
 </p>
+
+## 🟡 Galaga Contribution Game
+
+![Galaga Contribution Graph](https://raw.githubusercontent.com/Mancinix/About-me/output/galaga-contribution-graph.svg)   
