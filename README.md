@@ -29,7 +29,7 @@
 
 ---
 
-### 📗 Excel  
+### 📗 Excel
 Advanced data analysis using formulas, pivot tables, Power Query, and dashboards to transform raw data into meaningful insights.
 
 ### 📊 Tableau  
