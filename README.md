@@ -60,12 +60,3 @@ I specialise in transforming complex datasets into clear, actionable insights. F
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="pacman game"/>
 </p>
-
-## My Contribution Graph
-
-<!-- [Galaga] -->
-<p>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[Mancinix]/[Mancinix]/output/[Galaga]-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[Mancinix]/[Mancinix]/output/[Galaga]-contribution-graph.svg">
-    <img alt="[Galaga] contribution graph" src="https://raw.githubusercontent.com/[Mancinix]/[Mancinix]/output/[Galaga]-contribution-graph.svg">
-</p>
