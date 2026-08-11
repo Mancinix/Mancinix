@@ -1,0 +1,16 @@
+name: Generate Galaga Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: abozanona/pacman-contribution-graph@v1
+        with:
+          username: [Mancinix]
+          game: galaga
