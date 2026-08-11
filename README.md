@@ -19,8 +19,7 @@
 ## 🔧 Tools & Technologies
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="100"/>![Uploading acrade-contributions.svg…]()
-
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="100"/>
   <img src="https://img.icons8.com/color/48/tableau-software.png" width="100"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" width="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="100"/>
