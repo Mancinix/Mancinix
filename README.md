@@ -1,28 +1,17 @@
 <!-- 🔷 Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Yusuf%20Satilmis&fontSize=40&fontColor=ffffff"/>
-</p>
+<img width="1000" height="350" alt="github-banner" src="https://github.com/user-attachments/assets/2f491f8c-33e5-46ea-bc26-ca3940a1c387" />
 
-# 👋 Hi, I'm Yusuf
+# 👋 Hi, I'm Joe
 
 💡 Data Analyst passionate about turning data into actionable insights  
 📊 Skilled in data visualization, analytics, and cloud-based solutions  
 
 ---
 
-## 😂 Daily Data Joke
+## 😎 Daily Data Joke
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusufleeptalent&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufleeptalent&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -53,7 +42,7 @@ Creating dynamic reports and dashboards with DAX and Power Query to support data
 Writing efficient queries to extract, clean, and analyze structured data from relational databases.
 
 ### 🐍 Python  
-Using Python (Pandas, NumPy, Matplotlib) for data cleaning, analysis, and automation.
+Using Python (Pandas) for data cleaning, analysis, and automation.
 
 ### ☁️ Azure  
 Working with Azure services for cloud-based data storage and analytics solutions.
@@ -71,9 +60,12 @@ I specialise in transforming complex datasets into clear, actionable insights. F
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="pacman game"/>
 </p>
----
 
-<!-- 🔷 Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
+## My Contribution Graph
+
+<!-- [Galaga] -->
+<p>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[Mancinix]/[Mancinix]/output/[Galaga]-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[Mancinix]/[Mancinix]/output/[Galaga]-contribution-graph.svg">
+    <img alt="[Galaga] contribution graph" src="https://raw.githubusercontent.com/[Mancinix]/[Mancinix]/output/[Galaga]-contribution-graph.svg">
 </p>
