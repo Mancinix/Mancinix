@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: About-me
+          github_user_name: Mancinix
           games: 'galaga'
 
       - name: Push to output branch
