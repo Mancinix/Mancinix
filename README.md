@@ -55,7 +55,7 @@ I specialise in transforming complex datasets into clear, actionable insights. F
 
 ---
 
-## 🟡 Pac-Man Contribution Game
+## 🟡 Snake Contribution Game
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="pacman game"/>
