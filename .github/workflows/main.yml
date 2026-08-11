@@ -8,10 +8,20 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Essential for pushing files
     steps:
-      - uses: actions/checkout@v2
-      
+      # Step 1: Generate the SVG
       - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Mancinix
-          games: 'galaga'   
+          games: 'galaga' # Must be a string, NOT a list (no dash '-')
+
+      # Step 2: Push the generated file to the 'output' branch
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
