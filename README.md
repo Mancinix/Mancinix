@@ -88,6 +88,10 @@ I specialise in transforming complex datasets into clear, actionable insights. F
 
 ---
 
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+
+---
+
 ## 🟡 Snake Contribution Game
 
 <p align="center">
