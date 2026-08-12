@@ -25,7 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="100"/>
-</p>
 
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
@@ -59,6 +58,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visual-studio-code)
   ![Vagrant](https://img.shields.io/badge/-Vagrant-black?style=flat-square&&logo=vagrant)
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
+</p>
 
 ---
 
